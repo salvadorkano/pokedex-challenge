@@ -125,19 +125,19 @@ src
     ├── screens
     ├── theme
     └── utils
-```text
+```
 
 ## Instalación
 
 ```bash
 npm install
-```text
+```
 
 ## Ejecución
 
 ```bash
 npm run start
-```text
+```
 
 También se puede ejecutar con:
 
@@ -145,13 +145,13 @@ También se puede ejecutar con:
 npm run android
 npm run ios
 npm run web
-```text
+```
 
 ## Ejecución de pruebas
 
 ```bash
 npm test
-```text
+```
 
 Actualmente se incluyen pruebas unitarias para:
 
